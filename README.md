@@ -1,4 +1,4 @@
-# 🔗 AI Link Fixer Pro
+# 🔗 AI Link Fixer
 
 [![License: MIT](https://shields.io)](https://opensource.org)
 ![Platform: Chrome](https://shields.io)
