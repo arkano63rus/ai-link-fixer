@@ -1,12 +1,18 @@
 {
   "manifest_version": 3,
   "name": "AI Link Fixer Pro",
-  "version": "2.0",
-  "description": "Всплывающая кнопка для мгновенной очистки ссылок от пробелов",
+  "version": "3.0",
+  "description": "Умная кнопка для очистки ссылок от пробелов с настройками фильтрации сайтов.",
+  "permissions": [
+    "storage"
+  ],
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
       "js": ["content.js"]
     }
-  ]
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
 }
