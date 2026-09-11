@@ -36,7 +36,8 @@
 3. Нажмите на нее. Кнопка изменится на **✅ Скопировано!** и скроется
 4. Вставьте чистую, готовую к работе ссылку (`Ctrl + V`) в адресную строку или мессенджер!
 
-<img width="223" height="146" alt="image" src="https://github.com/user-attachments/assets/4f4b2bcc-3bc2-4924-8602-3dc826ce8416" /> 
+<img width="223" height="146" alt="image" src="https://github.com/user-attachments/assets/4f4b2bcc-3bc2-4924-8602-3dc826ce8416" /> <img width="240" height="49" alt="image" src="https://github.com/user-attachments/assets/5195b051-3f6d-4973-bd87-b4d4c079b8bd" />
+
 
 
 
