@@ -35,7 +35,10 @@
 2. Прямо над выделением мгновенно появится аккуратная зеленая кнопка **🔗 Склеить URL**
 3. Нажмите на нее. Кнопка изменится на **✅ Скопировано!** и скроется
 4. Вставьте чистую, готовую к работе ссылку (`Ctrl + V`) в адресную строку или мессенджер!
-<img width="223" height="146" alt="image" src="https://github.com/user-attachments/assets/4f4b2bcc-3bc2-4924-8602-3dc826ce8416" />  
+
+<img width="223" height="146" alt="image" src="https://github.com/user-attachments/assets/4f4b2bcc-3bc2-4924-8602-3dc826ce8416" />
+<img width="420" height="34" alt="image" src="https://github.com/user-attachments/assets/1cc2c453-d367-4b71-a8a8-21770fb5a979" />
+
 
 
 
